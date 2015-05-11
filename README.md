@@ -1470,6 +1470,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/percolate/caffeine](https://github.com/percolate/caffeine)
 1. **tray** A SharedPreferences replacement for Android with multiprocess support.
 [https://github.com/grandcentrix/tray](https://github.com/grandcentrix/tray)
+1. **Galgo** A tiny Android library for those moments when you want your logs to be displayed on screen.
+[https://github.com/inaka/galgo](https://github.com/grandcentrix/tray)
+
 
 
 
