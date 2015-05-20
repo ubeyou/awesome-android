@@ -144,7 +144,7 @@ Step 2. The item should fall under the appropriate category.
 
 
 ### <A NAME="EventBus"></A>EventBus
-1. **EventBus** Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.           
+1. **EventBus** Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. (Best)           
 [https://github.com/greenrobot/EventBus](https://github.com/greenrobot/EventBus)
 1. **otto**   An enhanced Guava-based event bus with emphasis on Android support.     
 [https://github.com/square/otto](https://github.com/square/otto)
